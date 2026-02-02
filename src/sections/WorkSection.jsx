@@ -38,7 +38,7 @@ const PROJECTS = [
     image: "/projects/portfolio.png",
     description:
       "Your personal portfolio built with React, Vite and Tailwind CSS showcasing skills, UI animations, projects and professional info.",
-    demo: "portfolio-os4pmlims-baba310029s-projects.vercel.app",
+    demo: "https://portfolio-os4pmlims-baba310029s-projects.vercel.app/",
     github: "https://github.com/Baba310029/portfolio",
   },
   {
