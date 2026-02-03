@@ -130,7 +130,7 @@ export default function HomeSection() {
                        bg-gradient-to-br from-teal-100 to-emerald-100
                        shadow-inner"
                 style={{ transform: `translateY(${drift}px)` }}
-                src="../public/home-image.jpeg" alt="" />
+                src="/home-image.jpeg" alt="" />
           {/* </div> */}
 
           {skills.map((skill, i) => (
