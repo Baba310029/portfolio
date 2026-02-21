@@ -12,6 +12,16 @@ const FILTERS = [
 
 const PROJECTS = [
   {
+    title: "LeadFlow CRM",
+    domain: "Full Stack",
+    tag: "Full Stack",
+    image: "/projects/leadflow.png",
+    description:
+      "A production-structured MERN SaaS-style CRM system for managing leads, tracking follow-ups, and visualizing performance metrics with KPI analytics, filtering, pagination, and a modern dashboard UI.",
+    demo: "https://github.com/Baba310029/LeadFlow-CRM/issues/1#issue-3972369789", 
+    github: "https://github.com/Baba310029/LeadFlow-CRM",
+  },
+  {
     title: "PermissionGraph",
     domain: "Full Stack",
     tag: "Full Stack",
